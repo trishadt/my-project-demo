@@ -1,4 +1,4 @@
 # my-project-demo
-Let's do the project 
+Let's do the project properly
 <br>
-Changes by- Trisha D T
+Changes made by- Trisha D T
